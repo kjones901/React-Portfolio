@@ -1,15 +1,9 @@
-import './App.css';
-import NavBar from './components/NavBar/NavBar'
-import AboutMe from './components/AboutMe/AboutMe'
-import { PageMargin } from './components/Page/PageMargin';
+import React from "react";
+import PrimaryContainer from "./components/PrimaryContainer";
+import 'bootstrap/dist/css/bootstrap.min.css'
 
-function App() {
-  return (
-    <PageMargin>
-      <NavBar/>
-      <AboutMe/>
-    </PageMargin>
-  );
-}
+const App = () => 
+	<PrimaryContainer />
 
 export default App;
+
