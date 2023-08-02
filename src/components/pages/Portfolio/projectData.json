@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Remind Me",
+		"techlist": "MVC, MySQL, JavaScript, CSS, Handlebars",
+		"background": "RemindMe.png",
+		"deployedLink": "https://monthlyreminders.herokuapp.com/",
+		"repo": "https://github.com/jmichaeldavis/remind-me"
+	},
+	{
+		"title": "Flick",
+		"techlist": "JavaScript, CSS, HTML, PICO",
+		"background": "Flick.png",
+		"deployedLink": "https://ashtreid.github.io/where-the-flick",
+		"repo": "https://github.com/ashtreid/where-the-flick"
+	},
+	{
+		"title": "Tech Blog",
+		"techlist": "CSS, Handlebars, JavaScript",
+		"background": "Tech.png",
+		"deployedLink": "https://sheltered-coast-57134.herokuapp.com/",
+		"repo": "https://github.com/kjones901/Tech-Blog"
+	},
+	{
+		"title": "Note Taker",
+		"techlist": "JavaScript, HTML, CSS",
+		"background": "Note.png",
+		"deployedLink": "https://serene-atoll-55826.herokuapp.com/",
+		"repo": "https://github.com/kjones901/Note_Taker"
+	},
+	{
+		"title": "Weather Dash",
+		"techlist": "JavaScript, HTML",
+		"background": "Weather.png",
+		"deployedLink": "https://kjones901.github.io/Weather-Dashboard/",
+		"repo": "https://github.com/kjones901/Weather-Dashboard"
+	},
+	{
+		"title": "CSS Portfolio",
+		"techlist": "CSS, HTML",
+		"background": "CssPortfolio.png",
+		"deployedLink": "https://kjones901.github.io/Portfolio/",
+		"repo": "https://github.com/kjones901/Portfolio"
+	}
+]
