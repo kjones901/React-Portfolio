@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-    This is my React Portfolio. It's a front-end only application that houses some of the work I did while in a 6 month full stack bootcamp. https://git.heroku.com/kyle-jones-portfolio.git
+    This is my React Portfolio. It's a front-end only application that houses some of the work I did while in a 6 month full stack bootcamp. https://kyle-jones-portfolio-c6649deb0c6f.herokuapp.com/
 
   ![Alt text](/src/assets/screenshot.png?raw=true "Screen Shot")
   
