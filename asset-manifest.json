@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/https//kjones901.github.io/React-Portfolio/static/css/main.7eebc124.css",
+    "main.js": "/https//kjones901.github.io/React-Portfolio/static/js/main.5fccebb8.js",
+    "static/js/787.1ed0c42c.chunk.js": "/https//kjones901.github.io/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ProfilePic.jpg": "/https//kjones901.github.io/React-Portfolio/static/media/ProfilePic.104331408600d6e412ea.jpg",
+    "static/media/WrinkledProfilePic.png": "/https//kjones901.github.io/React-Portfolio/static/media/WrinkledProfilePic.c99bb5cb4b18d63f1b23.png",
+    "static/media/Resume.png": "/https//kjones901.github.io/React-Portfolio/static/media/Resume.500687fb9ecfc77a8b73.png",
+    "static/media/templateComicImage.jpeg": "/https//kjones901.github.io/React-Portfolio/static/media/templateComicImage.4a53c6bee46c5bb33cd8.jpeg",
+    "static/media/screenshot.png": "/https//kjones901.github.io/React-Portfolio/static/media/screenshot.245cf5c9c491329e01e6.png",
+    "static/media/Weather.png": "/https//kjones901.github.io/React-Portfolio/static/media/Weather.6459b9310fae05b68ff5.png",
+    "static/media/TopPageTear.png": "/https//kjones901.github.io/React-Portfolio/static/media/TopPageTear.62d19b8ee051414ed09a.png",
+    "static/media/RemindMe.png": "/https//kjones901.github.io/React-Portfolio/static/media/RemindMe.7b34f56aeceb2de0141f.png",
+    "static/media/Flick.png": "/https//kjones901.github.io/React-Portfolio/static/media/Flick.e883dd4f00438d0d4824.png",
+    "static/media/BottomPageTear.png": "/https//kjones901.github.io/React-Portfolio/static/media/BottomPageTear.6c43f57ecf1ff689fcca.png",
+    "static/media/CssPortfolio.png": "/https//kjones901.github.io/React-Portfolio/static/media/CssPortfolio.7c6ca163d3535acb2efa.png",
+    "static/media/Note.png": "/https//kjones901.github.io/React-Portfolio/static/media/Note.de0c36f232c9b28bb935.png",
+    "static/media/Tech.png": "/https//kjones901.github.io/React-Portfolio/static/media/Tech.2846aca99cc51cc09f68.png",
+    "static/media/KyleJonesResume.pdf": "/https//kjones901.github.io/React-Portfolio/static/media/KyleJonesResume.cc6f172af3db080f3322.pdf",
+    "static/media/GithubLogo.png": "/https//kjones901.github.io/React-Portfolio/static/media/GithubLogo.358148ea0bb1e22088c8.png",
+    "static/media/Logo1.png": "/https//kjones901.github.io/React-Portfolio/static/media/Logo1.5bd21c53415c1075a44a.png",
+    "index.html": "/https//kjones901.github.io/React-Portfolio/index.html",
+    "main.7eebc124.css.map": "/https//kjones901.github.io/React-Portfolio/static/css/main.7eebc124.css.map",
+    "main.5fccebb8.js.map": "/https//kjones901.github.io/React-Portfolio/static/js/main.5fccebb8.js.map",
+    "787.1ed0c42c.chunk.js.map": "/https//kjones901.github.io/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eebc124.css",
+    "static/js/main.5fccebb8.js"
+  ]
+}
