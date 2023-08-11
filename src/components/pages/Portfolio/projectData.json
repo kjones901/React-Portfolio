@@ -1,5 +1,12 @@
 [
 	{
+		"title": "Designer AI",
+		"techlist": "CSS, REACT, OPEN AI, Apollo, GraphQL",
+		"background": "DesignerAI.png",
+		"deployedLink": "https://designer-ai-a4b729b9dfd7.herokuapp.com/",
+		"repo": "https://github.com/michaelayers3/project-3"
+	},
+	{
 		"title": "Remind Me",
 		"techlist": "MVC, MySQL, JavaScript, CSS, Handlebars",
 		"background": "RemindMe.png",
@@ -41,4 +48,5 @@
 		"deployedLink": "https://kjones901.github.io/Portfolio/",
 		"repo": "https://github.com/kjones901/Portfolio"
 	}
+	
 ]
