@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.7eebc124.css",
-    "main.js": "/React-Portfolio/static/js/main.b3a83bd4.js",
+    "main.js": "/React-Portfolio/static/js/main.3f03dba6.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ProfilePic.jpg": "/React-Portfolio/static/media/ProfilePic.104331408600d6e412ea.jpg",
     "static/media/WrinkledProfilePic.png": "/React-Portfolio/static/media/WrinkledProfilePic.c99bb5cb4b18d63f1b23.png",
@@ -19,13 +19,14 @@
     "static/media/KyleJonesResume.pdf": "/React-Portfolio/static/media/KyleJonesResume.cc6f172af3db080f3322.pdf",
     "static/media/GithubLogo.png": "/React-Portfolio/static/media/GithubLogo.358148ea0bb1e22088c8.png",
     "static/media/Logo1.png": "/React-Portfolio/static/media/Logo1.5bd21c53415c1075a44a.png",
+    "static/media/DesignerAI.png": "/React-Portfolio/static/media/DesignerAI.449ce8b83b142731cb64.png",
     "index.html": "/React-Portfolio/index.html",
     "main.7eebc124.css.map": "/React-Portfolio/static/css/main.7eebc124.css.map",
-    "main.b3a83bd4.js.map": "/React-Portfolio/static/js/main.b3a83bd4.js.map",
+    "main.3f03dba6.js.map": "/React-Portfolio/static/js/main.3f03dba6.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eebc124.css",
-    "static/js/main.b3a83bd4.js"
+    "static/js/main.3f03dba6.js"
   ]
 }
